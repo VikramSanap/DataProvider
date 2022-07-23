@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="20" passed="20" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-20T17:44:19 IST" name="Command line suite" finished-at="2022-07-20T17:44:23 IST" duration-ms="4177">
+    <groups>
+    </groups>
+    <test started-at="2022-07-20T17:44:19 IST" name="Command line test" finished-at="2022-07-20T17:44:23 IST" duration-ms="4177">
+      <class name="com.iris.TestCaseIris">
+        <test-method signature="m1(java.lang.String,java.lang.String)[pri:0, instance:com.iris.TestCaseIris@510f3d34]" started-at="2022-07-20T17:44:23 IST" name="m1" data-provider="Books Data" finished-at="2022-07-20T17:44:23 IST" duration-ms="12" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[The Old Man and The  Sea ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Earnest Hamingway]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m1(java.lang.String,java.lang.String)[pri:0, instance:com.iris.TestCaseIris@510f3d34]" started-at="2022-07-20T17:44:23 IST" name="m1" data-provider="Books Data" finished-at="2022-07-20T17:44:23 IST" duration-ms="19" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[The sun  also rises ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Earnest Hamingway]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m1(java.lang.String,java.lang.String)[pri:0, instance:com.iris.TestCaseIris@510f3d34]" started-at="2022-07-20T17:44:23 IST" name="m1" data-provider="Books Data" finished-at="2022-07-20T17:44:23 IST" duration-ms="14" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Raavan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sharad Tandle]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m1(java.lang.String,java.lang.String)[pri:0, instance:com.iris.TestCaseIris@510f3d34]" started-at="2022-07-20T17:44:23 IST" name="m1" data-provider="Books Data" finished-at="2022-07-20T17:44:23 IST" duration-ms="12" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kosala]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Bhalchandra Nemade]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m1(java.lang.String,java.lang.String)[pri:0, instance:com.iris.TestCaseIris@510f3d34]" started-at="2022-07-20T17:44:23 IST" name="m1" data-provider="Books Data" finished-at="2022-07-20T17:44:23 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Half GirlFriend]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chetan Bhagat]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m1(java.lang.String,java.lang.String)[pri:0, instance:com.iris.TestCaseIris@510f3d34]" started-at="2022-07-20T17:44:23 IST" name="m1" data-provider="Books Data" finished-at="2022-07-20T17:44:23 IST" duration-ms="13" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Harry Potter &  Deathly  hollows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[J.K.Rowling]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m1(java.lang.String,java.lang.String)[pri:0, instance:com.iris.TestCaseIris@510f3d34]" started-at="2022-07-20T17:44:23 IST" name="m1" data-provider="Books Data" finished-at="2022-07-20T17:44:23 IST" duration-ms="10" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Yayati]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[V.S.Khanddekar]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m1(java.lang.String,java.lang.String)[pri:0, instance:com.iris.TestCaseIris@510f3d34]" started-at="2022-07-20T17:44:23 IST" name="m1" data-provider="Books Data" finished-at="2022-07-20T17:44:23 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Meluha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Amish Trivedi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m1(java.lang.String,java.lang.String)[pri:0, instance:com.iris.TestCaseIris@510f3d34]" started-at="2022-07-20T17:44:23 IST" name="m1" data-provider="Books Data" finished-at="2022-07-20T17:44:23 IST" duration-ms="10" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Seeta]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Amish Trivedi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m1(java.lang.String,java.lang.String)[pri:0, instance:com.iris.TestCaseIris@510f3d34]" started-at="2022-07-20T17:44:23 IST" name="m1" data-provider="Books Data" finished-at="2022-07-20T17:44:23 IST" duration-ms="28" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mrityunjay]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Shivaji Savant]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m1(java.lang.String,java.lang.String)[pri:0, instance:com.iris.TestCaseIris@510f3d34]" started-at="2022-07-20T17:44:23 IST" name="m1" data-provider="Books Data" finished-at="2022-07-20T17:44:23 IST" duration-ms="15" status="PASS">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+      </class> <!-- com.iris.TestCaseIris -->
+      <class name="com.dataproviderdemo.TestCase">
+        <test-method signature="m1(java.lang.String,java.lang.String)[pri:0, instance:com.dataproviderdemo.TestCase@4d1c00d0]" started-at="2022-07-20T17:44:22 IST" name="m1" data-provider="FirstDP" finished-at="2022-07-20T17:44:22 IST" duration-ms="42" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[VAS]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Vikram Ashok Sanap]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m1(java.lang.String,java.lang.String)[pri:0, instance:com.dataproviderdemo.TestCase@4d1c00d0]" started-at="2022-07-20T17:44:22 IST" name="m1" data-provider="FirstDP" finished-at="2022-07-20T17:44:22 IST" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[KJN]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kishor Jagannath Nilakhe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m1(java.lang.String,java.lang.String)[pri:0, instance:com.dataproviderdemo.TestCase@4d1c00d0]" started-at="2022-07-20T17:44:22 IST" name="m1" data-provider="FirstDP" finished-at="2022-07-20T17:44:22 IST" duration-ms="8" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GKG]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ganesh Kachru Gandhas]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m1(java.lang.String,java.lang.String)[pri:0, instance:com.dataproviderdemo.TestCase@4d1c00d0]" started-at="2022-07-20T17:44:22 IST" name="m1" data-provider="FirstDP" finished-at="2022-07-20T17:44:22 IST" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MSP]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Manodip Subhash Patil]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m1(java.lang.String,java.lang.String)[pri:0, instance:com.dataproviderdemo.TestCase@4d1c00d0]" started-at="2022-07-20T17:44:22 IST" name="m1" data-provider="FirstDP" finished-at="2022-07-20T17:44:22 IST" duration-ms="8" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[PBZ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pravin Bal Zade]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m1(java.lang.String,java.lang.String)[pri:0, instance:com.dataproviderdemo.TestCase@4d1c00d0]" started-at="2022-07-20T17:44:22 IST" name="m1" data-provider="FirstDP" finished-at="2022-07-20T17:44:22 IST" duration-ms="35" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[PDS]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Prasad Dinu Sanap]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m1(java.lang.String,java.lang.String)[pri:0, instance:com.dataproviderdemo.TestCase@4d1c00d0]" started-at="2022-07-20T17:44:22 IST" name="m1" data-provider="FirstDP" finished-at="2022-07-20T17:44:22 IST" duration-ms="13" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GDS]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Gaurav Dinu Sanap]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m1(java.lang.String,java.lang.String)[pri:0, instance:com.dataproviderdemo.TestCase@4d1c00d0]" started-at="2022-07-20T17:44:22 IST" name="m1" data-provider="FirstDP" finished-at="2022-07-20T17:44:22 IST" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[NMS]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Nilesh Mhalu Sanap]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m1(java.lang.String,java.lang.String)[pri:0, instance:com.dataproviderdemo.TestCase@4d1c00d0]" started-at="2022-07-20T17:44:22 IST" name="m1" data-provider="FirstDP" finished-at="2022-07-20T17:44:23 IST" duration-ms="11" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DKS]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dinkar Kacharu Sanap]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+      </class> <!-- com.dataproviderdemo.TestCase -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
